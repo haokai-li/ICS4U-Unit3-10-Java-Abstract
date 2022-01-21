@@ -10,7 +10,7 @@
 /**
 * This is the standard "Bike" program.
 */
-public class Bike extends MyVehicle {
+public class Bike extends AbstractMyVehicle {
     /**
     * Cadence.
     */
